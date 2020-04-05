@@ -1,0 +1,57 @@
+html {
+    background-color: black;
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    float: center;
+}
+
+.white {
+    color: white;
+}
+
+.download {
+    text-align: center;
+    float: center;
+    color: Aquamarine;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.travel_guide h1 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.travel_guide p {
+    font-size: 21px;
+    color: gray;
+}
+
+.coming_soon h1 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.coming_soon img {
+    float: center;
+    padding-top: 30px;
+}
+
+footer {
+    float: right;
+}
+
+footer * {
+    display: inline;
+}
